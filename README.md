@@ -8,7 +8,8 @@
 
 <div align="center">
   <div id="header">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ianl3YnlqZTh6Y3doeWltNzI0Zm45eTdhZG00dGx4NDV4eXo5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="300">
+  
 </div>
 
 <div id="badges"align="center">
@@ -49,6 +50,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### 
+<div align="center">:fire: <strong> Stats : </strong></div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilyMaksutova&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
